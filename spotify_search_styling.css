@@ -1,0 +1,46 @@
+ul {
+    color: #F4900C;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2vw;
+    font-family: 'Nanum Brush Script';
+    list-style: none;
+
+}
+
+ol {
+    color: #F4900C;
+    font-size: 2vw;
+    font-family: 'Nanum Brush Script';
+    list-style: none;
+
+}
+
+h1 {
+    color: white;
+    font-size: 3vw;
+
+}
+
+h2 {
+    color: #f1bf7c;
+    font-size: 2vw;
+
+}
+
+
+h3 {
+    color: #f1bf7c;
+    font-size: 2vw;
+
+}
+
+body {
+    background-color: black;
+    background-image: url(guitar.jpg);
+    background-position: right;
+    background-repeat: repeat-y;
+    font-family: 'Nanum Brush Script';
+    text-align: right;
+
+
+}
